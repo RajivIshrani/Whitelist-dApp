@@ -1,1 +1,2 @@
 "# Whitelist-dApp" 
+Developed and deployed a decentralized " WHITELIST-DAPP" smart contract that allows visitors to access to a whitelist for one’s collection, using Hardhat, Ethers.js, React, Next.js, and Ethereum Goerli Testnet.
